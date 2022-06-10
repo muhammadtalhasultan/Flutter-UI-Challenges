@@ -22,7 +22,7 @@ Send me UI suggestions for any project on <a href="mailto:contact@talhasultan.de
 <!-- > <a href="https://www.buymeacoffee.com/xPGLYEr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xPGLYEr&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a> -->
 Support me on Patreon. 
 
-<a href="https://www.patreon.com/bePatron?u=48456662" data-patreon-widget-type="become-patron-button"><img src="https://raw.githubusercontent.com/codebard/patron-button-and-widgets-by-codebard/master/images/patreon-medium-button.png" alt="Become a Patreon!" /></a>
+<a href="https://www.patreon.com/muhammadtalhasultan" data-patreon-widget-type="become-patron-button"><img src="https://raw.githubusercontent.com/codebard/patron-button-and-widgets-by-codebard/master/images/patreon-medium-button.png" alt="Become a Patreon!" /></a>
 
 ### 💻 Requirements
 
