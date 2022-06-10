@@ -15,6 +15,9 @@ PRs & Issues are welcomed.
 
 Send me UI suggestions for any project on <a href="mailto:contact@talhasultan.dev">contact@talhasultan.dev</a>
 
+
+<img align="center" src = "https://profile-counter.glitch.me/Flutter-UI-Challenges/count.svg" alt ="Loading">
+
 ### Support App
 
 > ⭐️ Star the repo to show support. ⭐️
